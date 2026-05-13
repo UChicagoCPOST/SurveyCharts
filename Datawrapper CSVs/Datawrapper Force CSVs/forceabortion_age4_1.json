@@ -1,4 +1,7 @@
 {
+  "chartId": "CHART_ID",
+  "title": "Chart Title Here",
+  "metadata": {
     "describe": {
       "intro": "Chart description here.",
       "source-name": "Source Name Here",
@@ -7,3 +10,4 @@
       "notes": "Chart notes here. Supports <a href='https://example.com'>HTML links</a>."
     }
   }
+}
