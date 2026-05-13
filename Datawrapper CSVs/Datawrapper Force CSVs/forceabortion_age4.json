@@ -5,9 +5,7 @@
 
 {
 "describe": {
-            "source-name": "CPOST",
-            "source-url": "",
-            "intro": "<span style=\"line-height:30px; word-break: keep-all\">\n\n\n<a target=\"_self\" href=\"https://datawrapper.dwcdn.net/ft0wa/\" style=\"background:#15607a; padding:1px 6px; border-radius:5px; color:#ffffff; font-weight:400; box-shadow:0px 0px 7px 2px rgba(0,0,0,0.07); cursor:pointer;\">Overall</a> &nbsp;\n\nor % Agree by:\n<a target=\"_self\" href=\"https://datawrapper.dwcdn.net/aM1A6/\" style=\"background:#429ddd; padding:1px 6px; border-radius:5px; color:#ffffff; font-weight:400; box-shadow:0px 0px 7px 2px rgba(0,0,0,0.07); cursor:pointer;\">Party</a> &nbsp;\n\n<a target=\"_self\" href=\"https://datawrapper.dwcdn.net/muihP/\" style=\"background:#429ddd; padding:1px 6px; border-radius:5px; color:#ffffff; font-weight:400; box-shadow:0px 0px 7px 2px rgba(0,0,0,0.07); cursor:pointer;\">Age</a> &nbsp;\n\n<a target=\"_self\" href=\"https://datawrapper.dwcdn.net/CK3D8/\" style=\"background:#429ddd; padding:1px 6px; border-radius:5px; color:#ffffff; font-weight:400; box-shadow:0px 0px 7px 2px rgba(0,0,0,0.07); cursor:pointer;\">Race</a> &nbsp;\n\n<a target=\"_self\" href=\"https://datawrapper.dwcdn.net/Et5Yp/\" style=\"background:#429ddd; padding:1px 6px; border-radius:5px; color:#ffffff; font-weight:400; box-shadow:0px 0px 7px 2px rgba(0,0,0,0.07); cursor:pointer;\">Education</a> &nbsp;\n",
-            "byline": "CPOST"
+            "source-name": "MEPOST"
+            
           }
 
