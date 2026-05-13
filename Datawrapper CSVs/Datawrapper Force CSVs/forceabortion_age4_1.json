@@ -1,13 +1,13 @@
 {
   "Data": {
-  "title": "Chart Title Here",
+    "title": "Chicken",
   "describe": {
     "intro": "Chart description here.",
     "source-name": "Source Name Here",
     "source-url": "https://source-url.com",
     "byline": "Author Name",
   "annotation": { 
-    "notes": "Chart notes here. Supports <a href='https://example.com'>HTML links</a>."
+    "notes": "Note: Chart notes here. Supports <a href='https://example.com'>HTML links</a>."
     }
   }
 }
