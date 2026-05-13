@@ -1,11 +1,11 @@
 {
   "title": "Chart Title Here",
-  "metadata": {
     "describe": {
       "intro": "Chart description here.",
       "source-name": "Source Name Here",
       "source-url": "https://source-url.com",
       "byline": "Author Name",
+     "annotation": { 
       "notes": "Chart notes here. Supports <a href='https://example.com'>HTML links</a>."
     }
   }
